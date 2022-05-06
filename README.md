@@ -1,4 +1,4 @@
-# NLP on COVID-19 Research Papers
+# Search and IR on COVID-19 Research Papers
 
 ## Perform NLP on COVID-19 research papers to extract useful information.
 
